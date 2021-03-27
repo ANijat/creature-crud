@@ -2,7 +2,7 @@
 
 ### Technologies
 
-Go, Gorm, Echo framework
+Go, Gorm, Echo framework, Mysql
 
 ### Installation
 
