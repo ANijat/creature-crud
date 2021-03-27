@@ -7,9 +7,9 @@ Go, Gorm, Echo framework
 ### Installation
 
 ```bash
-git clone https://github.com/ANijat/creature-crud.git
-cd creature-crud
-go install
+$ git clone https://github.com/ANijat/creature-crud.git
+$ cd creature-crud
+$ go install
 ```
 
 Schema:
