@@ -20,7 +20,6 @@ Mentioned 6 environment variables need to be configured for Mysql database confi
 
 DBUser, DBPassword, DBName, DBHost, DBPort, DBtype
 
-You may also add export in front of each line
 
 example:
 ```bash
