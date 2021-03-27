@@ -9,7 +9,9 @@ Config:
 Mentioned 6 environment variables need to be configured for database configurations.
 
 DBUser, DBPassword, DBName, DBHost, DBPort, DBtype
+
 You may also add export in front of each line
+
 example:
 ```bash
 $ export DBUser=admin
