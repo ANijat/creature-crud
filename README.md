@@ -3,10 +3,10 @@
 ### Usage
 
 Schema:
-For initial step init/01.sql should be executed on the database. 
+For initial step init/01.sql should be executed on the Mysql database. 
 
 Config:
-Mentioned 6 environment variables need to be configured for database configurations.
+Mentioned 6 environment variables need to be configured for Mysql database configuration.
 
 DBUser, DBPassword, DBName, DBHost, DBPort, DBtype
 
