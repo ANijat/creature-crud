@@ -21,6 +21,7 @@ $ export DBHost=localhost
 ```
 
 API:
+
 /creature/ GET -> Get all of the creatures from db
 
 /creature/:id GET -> Get a creature from db by id
